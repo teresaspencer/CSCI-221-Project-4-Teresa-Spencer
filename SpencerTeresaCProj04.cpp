@@ -1,3 +1,4 @@
+// SpencerTeresaCProj04.cpp
 // Author: Teresa Spencer
 // Date: October 4th, 2024
 // Description: 
@@ -9,8 +10,10 @@
 #include <cctype>
 using namespace std;
 
+char digitToInt(char c);
+
 int main() {
-    
+
 }
 
 
